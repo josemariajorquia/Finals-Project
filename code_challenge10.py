@@ -1,3 +1,5 @@
+def cc10():
+
 for x in range(6,0, -1):
     for u in range (1,x+1):
         print(" " , end= " ")
@@ -15,3 +17,5 @@ for z in range(1,6):
     for y in range (6,z,-1):
         print("*", end = " ")
     print()
+
+cc10()
