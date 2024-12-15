@@ -1,4 +1,4 @@
-def code_chal3():
+def cc3():
     name = "Jose Maria D. Jorquia"
     age = 24
     birthdate = ("January 1, 2000")
@@ -11,4 +11,4 @@ def code_chal3():
     print(f"My birth day is {birthdate} and i am {gender}.")
     print(f"My nationality is {nationality}. My heihght is {height} and my weight in kilograms is {weight}.")
     
-code_chal3()
+cc3()
