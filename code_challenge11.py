@@ -1,3 +1,5 @@
+def cc11():
+
 for x in range(5, 0, -1): 
 	for u in range(1, x+1):
 		print(" ", end=" " )
@@ -15,3 +17,5 @@ for z in range(0,5):
 	for y in range(4, z, -1):
 		print("*", end= " ")
 	print()
+
+cc11():
