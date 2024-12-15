@@ -1,3 +1,5 @@
+def cc16():
+
 balance = 0
 
 def create_account(name, initial_deposit = 0):
@@ -109,3 +111,5 @@ while isCont == True:
     else:
         print("Invalid pick. Please try again.")
         continue
+
+cc16()
