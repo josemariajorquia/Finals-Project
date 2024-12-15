@@ -1,3 +1,5 @@
+def cc13():
+
 for x in range (1,6):
 	for u in range (6,x, -1) :
 		print(" ", end= " ")
@@ -14,3 +16,5 @@ for z in range (4,0,-1):
 	for y in range (1,z+1):
 		print(y, end= " ")
 	print()
+
+cc13():
